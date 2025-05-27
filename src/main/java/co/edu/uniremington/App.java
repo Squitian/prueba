@@ -13,5 +13,11 @@ public class App
        int b = 4;
        int suma = a+b;
         System.out.println(suma);
+
+       int c = 10;
+       int d = 12;
+       int mult = c*d;
+        System.out.println(mult);
+
     }
 }

@@ -20,6 +20,7 @@ public class App
         int restar = a-b;
         System.out.println(restar);
 
+
         int num1 = 5;
         int num2 = 7;
         int suma = num1 + num2;
@@ -35,6 +36,7 @@ public class App
        int d = 12;
        int mult = c*d;
         System.out.println(mult);
+
 
     }
 

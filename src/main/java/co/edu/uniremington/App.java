@@ -5,8 +5,6 @@ import org.w3c.dom.ls.LSOutput;
 
 import javax.swing.*;
 
-=======
->>>>>>> 6da4eb5d68d17ef783d7934cf1800dd0f222a446
 /**
  * Hello world!
  *

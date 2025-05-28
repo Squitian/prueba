@@ -1,5 +1,5 @@
 package co.edu.uniremington;
-<<<<<<< HEAD
+
 
 import org.w3c.dom.ls.LSOutput;
 

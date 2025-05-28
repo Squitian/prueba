@@ -23,6 +23,11 @@ public class App
        int mult = c*d;
         System.out.println(mult);
 
+        int e = 12;
+        int f = 2;
+        int div = e/f;
+        System.out.println(div);
+
     }
 
 }
